@@ -30,8 +30,7 @@ For UI, I designed a minimal, responsive interface with real-time feedback, show
 
 This approach ensures a smooth user experience, combining voice interaction, smart recommendations, and lightweight deployment without requiring a backend. 
 
-### 🛠️ Tech Stack
----
+### 🛠️ Tech Stack  
 
 - React + Vite
 
@@ -42,8 +41,8 @@ This approach ensures a smooth user experience, combining voice interaction, sma
 - Netlify for hosting
   
 
-### ⚡ Quick Start (Local Setup)
---- 
+### ⚡ Quick Start (Local Setup)  
+
 ### 1. Clone repository
 git clone https://github.com/aakashschauhan/voice-shopping-assistant.git
 cd voice-shopping-assistant
@@ -55,8 +54,7 @@ npm install
 npm run dev
 
 
-### 🎯 Example Voice Commands
----
+### 🎯 Example Voice Commands  
 
 - add 2 bottles of water
 
@@ -69,8 +67,7 @@ npm run dev
 - clear list
   
 
-### 📑 Submission Info
----
+### 📑 Submission Info  
 
 - Student: Aakash Singh Chauhan
 
@@ -78,7 +75,6 @@ npm run dev
 
 - Assignment: Voice Command Shopping Assistant (Set 2 – Assignment 1)
   
-### 📜 License
----
+### 📜 License  
 
 MIT © 2025
