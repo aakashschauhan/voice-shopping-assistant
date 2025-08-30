@@ -28,7 +28,8 @@ Substitutes (e.g., almond milk for milk)
 
 For UI, I designed a minimal, responsive interface with real-time feedback, showing recognized commands, search results, and quick-add options. Deployment was done on Netlify for easy public access, while the complete source code and documentation are maintained in a GitHub repository.
 
-This approach ensures a smooth user experience, combining voice interaction, smart recommendations, and lightweight deployment without requiring a backend.
+This approach ensures a smooth user experience, combining voice interaction, smart recommendations, and lightweight deployment without requiring a backend. 
+---
 
 ### 🛠️ Tech Stack
 
@@ -39,6 +40,7 @@ This approach ensures a smooth user experience, combining voice interaction, sma
 - LocalStorage for history persistence
 
 - Netlify for hosting
+  ---
 
 ### ⚡ Quick Start (Local Setup)
 ### 1. Clone repository
@@ -50,6 +52,7 @@ npm install
 
 ### 3. Run development server
 npm run dev
+---
 
 ### 🎯 Example Voice Commands
 
@@ -62,6 +65,7 @@ npm run dev
 - search brand colgate toothpaste under 150
 
 - clear list
+  ---
 
 ### 📑 Submission Info
 
@@ -70,7 +74,7 @@ npm run dev
 - Roll Number: 2201640100003
 
 - Assignment: Voice Command Shopping Assistant (Set 2 – Assignment 1)
-
+  ---
 ### 📜 License
 
 MIT © 2025
