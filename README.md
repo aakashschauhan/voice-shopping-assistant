@@ -12,7 +12,7 @@ Supports multilingual commands (English, Hindi, Spanish), smart suggestions, and
 
  👉 GitHub Repo Link: https://github.com/aakashschauhan/voice-shopping-assistant
 
-## 3. Brief Write-up of Approach
+### 3. Brief Write-up of Approach
 
 I developed the Voice Shopping Assistant as a React + Vite single-page application using the Web Speech API for voice recognition. The app supports multilingual input (English, Hindi, Spanish) and parses natural commands like “add milk,” “remove bread,” or “find organic apples under 200.”
 
@@ -32,15 +32,15 @@ This approach ensures a smooth user experience, combining voice interaction, sma
 
 ### 🛠️ Tech Stack
 
--React + Vite
+- React + Vite
 
--Web Speech API (browser-native voice recognition)
+- Web Speech API (browser-native voice recognition)
 
--LocalStorage for history persistence
+- LocalStorage for history persistence
 
--Netlify for hosting
+- Netlify for hosting
 
-## ⚡ Quick Start (Local Setup)
+### ⚡ Quick Start (Local Setup)
 ### 1. Clone repository
 git clone https://github.com/aakashschauhan/voice-shopping-assistant.git
 cd voice-shopping-assistant
@@ -53,23 +53,23 @@ npm run dev
 
 ### 🎯 Example Voice Commands
 
--add 2 bottles of water
+- add 2 bottles of water
 
--remove bread
+- remove bread
 
--find organic apples under 200
+- find organic apples under 200
 
--search brand colgate toothpaste under 150
+- search brand colgate toothpaste under 150
 
--clear list
+- clear list
 
 ### 📑 Submission Info
 
-Student: Aakash Singh Chauhan
+- Student: Aakash Singh Chauhan
 
-Roll Number: 2201640100003
+- Roll Number: 2201640100003
 
-Assignment: Voice Command Shopping Assistant (Set 2 – Assignment 1)
+- Assignment: Voice Command Shopping Assistant (Set 2 – Assignment 1)
 
 ### 📜 License
 
