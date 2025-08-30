@@ -1,0 +1,32 @@
+{
+  "milk": [
+    "almond milk",
+    "soy milk",
+    "oat milk"
+  ],
+  "butter": [
+    "margarine",
+    "ghee"
+  ],
+  "bread": [
+    "multigrain bread",
+    "gluten-free bread",
+    "bun"
+  ],
+  "yogurt": [
+    "curd",
+    "soy yogurt"
+  ],
+  "rice": [
+    "quinoa",
+    "millet"
+  ],
+  "toothpaste": [
+    "herbal toothpaste",
+    "tooth powder"
+  ],
+  "shampoo": [
+    "hair cleanser",
+    "mild shampoo"
+  ]
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "p1",
+    "name": "Milk",
+    "brand": "Amul",
+    "size": "1L",
+    "price": 68,
+    "organic": false,
+    "category": "Dairy"
+  },
+  {
+    "id": "p2",
+    "name": "Almond Milk",
+    "brand": "So Good",
+    "size": "1L",
+    "price": 250,
+    "organic": false,
+    "category": "Dairy"
+  },
+  {
+    "id": "p3",
+    "name": "Apples",
+    "brand": "Local",
+    "size": "1kg",
+    "price": 180,
+    "organic": true,
+    "category": "Produce"
+  },
+  {
+    "id": "p4",
+    "name": "Bananas",
+    "brand": "Local",
+    "size": "1dozen",
+    "price": 60,
+    "organic": false,
+    "category": "Produce"
+  },
+  {
+    "id": "p5",
+    "name": "Bread",
+    "brand": "Britannia",
+    "size": "400g",
+    "price": 45,
+    "organic": false,
+    "category": "Bakery"
+  },
+  {
+    "id": "p6",
+    "name": "Toothpaste",
+    "brand": "Colgate",
+    "size": "120g",
+    "price": 110,
+    "organic": false,
+    "category": "Personal Care"
+  },
+  {
+    "id": "p7",
+    "name": "Rice",
+    "brand": "India Gate",
+    "size": "5kg",
+    "price": 600,
+    "organic": false,
+    "category": "Grains & Cereals"
+  },
+  {
+    "id": "p8",
+    "name": "Orange Juice",
+    "brand": "Real",
+    "size": "1L",
+    "price": 110,
+    "organic": false,
+    "category": "Beverages"
+  },
+  {
+    "id": "p9",
+    "name": "Yogurt",
+    "brand": "Mother Dairy",
+    "size": "400g",
+    "price": 70,
+    "organic": false,
+    "category": "Dairy"
+  },
+  {
+    "id": "p10",
+    "name": "Onions",
+    "brand": "Local",
+    "size": "1kg",
+    "price": 40,
+    "organic": false,
+    "category": "Produce"
+  },
+  {
+    "id": "p11",
+    "name": "Organic Apples",
+    "brand": "Farm Fresh",
+    "size": "1kg",
+    "price": 240,
+    "organic": true,
+    "category": "Produce"
+  },
+  {
+    "id": "p12",
+    "name": "Shampoo",
+    "brand": "Dove",
+    "size": "340ml",
+    "price": 325,
+    "organic": false,
+    "category": "Personal Care"
+  }
+]
