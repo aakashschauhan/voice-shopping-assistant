@@ -4,6 +4,7 @@ A voice-controlled shopping list web app built with React + Vite using the Web S
 Supports multilingual commands (English, Hindi, Spanish), smart suggestions, and product search with filters.
 
 ## 📑 Assignment Deliverables
+
 ### 1. Working Application URL
 
  👉 Netlify Live Link: https://voice-shopping-assistant.netlify.app
@@ -30,7 +31,7 @@ For UI, I designed a minimal, responsive interface with real-time feedback, show
 
 This approach ensures a smooth user experience, combining voice interaction, smart recommendations, and lightweight deployment without requiring a backend. 
 
-### 🛠️ Tech Stack  
+### 🛠️ Tech Stack
 
 - React + Vite
 
