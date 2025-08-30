@@ -3,14 +3,14 @@
 A voice-controlled shopping list web app built with React + Vite using the Web Speech API.
 Supports multilingual commands (English, Hindi, Spanish), smart suggestions, and product search with filters.
 
-# 📑 Assignment Deliverables
-## 1. Working Application URL
+## 📑 Assignment Deliverables
+### 1. Working Application URL
 
-### 👉 Netlify Live Link: https://voice-shopping-assistant.netlify.app
+ 👉 Netlify Live Link: https://voice-shopping-assistant.netlify.app
 
-## 2. GitHub Repository
+### 2. GitHub Repository
 
-### 👉 GitHub Repo Link: https://github.com/aakashschauhan/voice-shopping-assistant
+ 👉 GitHub Repo Link: https://github.com/aakashschauhan/voice-shopping-assistant
 
 ## 3. Brief Write-up of Approach
 
@@ -30,15 +30,15 @@ For UI, I designed a minimal, responsive interface with real-time feedback, show
 
 This approach ensures a smooth user experience, combining voice interaction, smart recommendations, and lightweight deployment without requiring a backend.
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-React + Vite
+-React + Vite
 
-Web Speech API (browser-native voice recognition)
+-Web Speech API (browser-native voice recognition)
 
-LocalStorage for history persistence
+-LocalStorage for history persistence
 
-##Netlify for hosting
+-Netlify for hosting
 
 ## ⚡ Quick Start (Local Setup)
 ### 1. Clone repository
@@ -53,17 +53,17 @@ npm run dev
 
 ### 🎯 Example Voice Commands
 
-add 2 bottles of water
+-add 2 bottles of water
 
-remove bread
+-remove bread
 
-find organic apples under 200
+-find organic apples under 200
 
-search brand colgate toothpaste under 150
+-search brand colgate toothpaste under 150
 
-clear list
+-clear list
 
-## 📑 Submission Info
+### 📑 Submission Info
 
 Student: Aakash Singh Chauhan
 
