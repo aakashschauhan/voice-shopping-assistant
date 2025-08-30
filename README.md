@@ -1,16 +1,16 @@
-### 🎙️ Voice Shopping Assistant 🛒
+# 🎙️ Voice Shopping Assistant 🛒
 
 A voice-controlled shopping list web app built with React + Vite using the Web Speech API.
 Supports multilingual commands (English, Hindi, Spanish), smart suggestions, and product search with filters.
 
-### 📑 Assignment Deliverables
+# 📑 Assignment Deliverables
 ## 1. Working Application URL
 
-# 👉 Netlify Live Link: https://voice-shopping-assistant.netlify.app
+### 👉 Netlify Live Link: https://voice-shopping-assistant.netlify.app
 
 ## 2. GitHub Repository
 
-# 👉 GitHub Repo Link: https://github.com/aakashschauhan/voice-shopping-assistant
+### 👉 GitHub Repo Link: https://github.com/aakashschauhan/voice-shopping-assistant
 
 ## 3. Brief Write-up of Approach
 
@@ -41,17 +41,17 @@ LocalStorage for history persistence
 ##Netlify for hosting
 
 ## ⚡ Quick Start (Local Setup)
-# 1. Clone repository
+### 1. Clone repository
 git clone https://github.com/aakashschauhan/voice-shopping-assistant.git
 cd voice-shopping-assistant
 
-# 2. Install dependencies
+### 2. Install dependencies
 npm install
 
-# 3. Run development server
+### 3. Run development server
 npm run dev
 
-# 🎯 Example Voice Commands
+### 🎯 Example Voice Commands
 
 add 2 bottles of water
 
@@ -71,6 +71,6 @@ Roll Number: 2201640100003
 
 Assignment: Voice Command Shopping Assistant (Set 2 – Assignment 1)
 
-# 📜 License
+### 📜 License
 
 MIT © 2025
