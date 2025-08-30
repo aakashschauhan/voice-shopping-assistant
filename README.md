@@ -1,22 +1,18 @@
-🎙️ #Voice Shopping Assistant 🛒
+🎙️ Voice Shopping Assistant 🛒
 
 A voice-controlled shopping list web app built with React + Vite using the Web Speech API.
 Supports multilingual commands (English, Hindi, Spanish), smart suggestions, and product search with filters.
 
-#📑 Assignment Deliverables
+📑 Assignment Deliverables
 1. Working Application URL
 
-👉 #Netlify Live Link
+👉 Netlify Live Link: https://voice-shopping-assistant.netlify.app
 
-(voice-shopping-assistant.netlify.app)
+2. GitHub Repository
 
-2. #GitHub Repository
+👉 GitHub Repo Link: https://github.com/aakashschauhan/voice-shopping-assistant
 
-👉 GitHub Repo Link
-
-(https://github.com/aakashschauhan/voice-shopping-assistant.git)
-
-3. #Brief Write-up of Approach 
+3. Brief Write-up of Approach
 
 I developed the Voice Shopping Assistant as a React + Vite single-page application using the Web Speech API for voice recognition. The app supports multilingual input (English, Hindi, Spanish) and parses natural commands like “add milk,” “remove bread,” or “find organic apples under 200.”
 
@@ -28,13 +24,13 @@ Frequent items (based on history)
 
 Seasonal produce (month-wise)
 
-Substitutes (e.g., almond milk for milk).
+Substitutes (e.g., almond milk for milk)
 
-For UI, I designed a minimal, responsive interface with real-time feedback, showing recognized commands, search results, and quick-add options. Deployment was done on Netlify for easy public access, while the complete source code and README are maintained in a GitHub repository.
+For UI, I designed a minimal, responsive interface with real-time feedback, showing recognized commands, search results, and quick-add options. Deployment was done on Netlify for easy public access, while the complete source code and documentation are maintained in a GitHub repository.
 
 This approach ensures a smooth user experience, combining voice interaction, smart recommendations, and lightweight deployment without requiring a backend.
 
-🛠️ #Tech Stack
+🛠️ Tech Stack
 
 React + Vite
 
@@ -46,7 +42,7 @@ Netlify for hosting
 
 ⚡ Quick Start (Local Setup)
 # 1. Clone repository
-git clone https://github.com/your-username/voice-shopping-assistant.git
+git clone https://github.com/aakashschauhan/voice-shopping-assistant.git
 cd voice-shopping-assistant
 
 # 2. Install dependencies
@@ -73,7 +69,7 @@ Student: Aakash Singh Chauhan
 
 Roll Number: 2201640100003
 
-Assignment: Voice Command Shopping Assistant set 2 - Assignment 1
+Assignment: Voice Command Shopping Assistant (Set 2 – Assignment 1)
 
 📜 License
 
