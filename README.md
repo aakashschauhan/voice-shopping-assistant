@@ -1,55 +1,80 @@
-# Voice Shopping Assistant
+🎙️ Voice Shopping Assistant 🛒
 
-A voice-based shopping list manager with smart suggestions. Built with React + Vite and the Web Speech API for speech recognition.
+A voice-controlled shopping list web app built with React + Vite using the Web Speech API.
+Supports multilingual commands (English, Hindi, Spanish), smart suggestions, and product search with filters.
 
-## Features
-- 🎙️ **Voice Commands**: add/remove items, set quantities, search products by voice (brand, organic, price under).
-- 🌐 **Multilingual**: Switch mic language (English `en-US`, Hindi `hi-IN`, Spanish `es-ES`).
-- 🧠 **Smart Suggestions**: Frequent items from your local history, seasonal picks by month, and substitutes for last added item.
-- 🧾 **List Management**: Categorization (dairy/produce/etc), quantity controls, clear list.
-- 🔎 **Voice-Activated Search**: Filters a sample product catalog (brand/organic/price).
+📑 Assignment Deliverables
+1. Working Application URL
 
-## Quick Start (Local)
-1. Install dependencies:
-   ```bash
-   npm i
-   ```
-2. Run the dev server:
-   ```bash
-   npm run dev
-   ```
-3. Open the URL shown (usually `http://localhost:5173`). Allow microphone access.
+👉 Netlify Live Link
 
-> Tip: The Web Speech API works best in Chrome/Edge. Firefox may not support recognition yet.
+(voice-shopping-assistant.netlify.app)
 
-## Example Voice Commands
-- "add milk" / "add 2 bottles of water"
-- "remove bread"
-- "find organic apples under 200"
-- "search brand colgate toothpaste under 150"
-- "clear list"
+2. GitHub Repository
 
-## Deploy (Firebase Hosting)
-1. Install the Firebase CLI:
-   ```bash
-   npm i -g firebase-tools
-   ```
-2. Login and init (choose Hosting only):
-   ```bash
-   firebase login
-   firebase init hosting
-   # Use existing project or create one, set `dist` as the public directory, SPA: Yes
-   ```
-3. Build & deploy:
-   ```bash
-   npm run build
-   firebase deploy
-   ```
+👉 GitHub Repo Link
 
-## Tech
-- React + Vite
-- Web Speech API
-- No backend required (data saved to `localStorage`); simple JSON catalogs included.
+(https://github.com/aakashschauhan/voice-shopping-assistant.git)
 
-## License
-MIT
+3. Brief Write-up of Approach 
+
+I developed the Voice Shopping Assistant as a React + Vite single-page application using the Web Speech API for voice recognition. The app supports multilingual input (English, Hindi, Spanish) and parses natural commands like “add milk,” “remove bread,” or “find organic apples under 200.”
+
+For NLP, I implemented a lightweight parser to extract intents such as add_item, remove_item, set_quantity, clear_list, and search_item. Each recognized item is auto-categorized (Dairy, Produce, Beverages, etc.) and stored in the shopping list with quantity controls. Data persistence is handled using browser localStorage to retain history across sessions.
+
+The app also provides smart suggestions:
+
+Frequent items (based on history)
+
+Seasonal produce (month-wise)
+
+Substitutes (e.g., almond milk for milk).
+
+For UI, I designed a minimal, responsive interface with real-time feedback, showing recognized commands, search results, and quick-add options. Deployment was done on Netlify for easy public access, while the complete source code and README are maintained in a GitHub repository.
+
+This approach ensures a smooth user experience, combining voice interaction, smart recommendations, and lightweight deployment without requiring a backend.
+
+🛠️ Tech Stack
+
+React + Vite
+
+Web Speech API (browser-native voice recognition)
+
+LocalStorage for history persistence
+
+Netlify for hosting
+
+⚡ Quick Start (Local Setup)
+# 1. Clone repository
+git clone https://github.com/your-username/voice-shopping-assistant.git
+cd voice-shopping-assistant
+
+# 2. Install dependencies
+npm install
+
+# 3. Run development server
+npm run dev
+
+🎯 Example Voice Commands
+
+add 2 bottles of water
+
+remove bread
+
+find organic apples under 200
+
+search brand colgate toothpaste under 150
+
+clear list
+
+📑 Submission Info
+
+Student: Aakash Singh Chauhan
+
+Roll Number: 2201640100003
+
+Assignment: Voice Command Shopping Assistant set 2 - Assignment 1
+
+📜 License
+
+MIT © 2025
